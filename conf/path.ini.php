@@ -9,7 +9,7 @@ i18n=../data/i18n/
 cache=../data/cache/
 
 conf=../conf/
-module=../module/
+module= ../vendor/phpbenchmarks/mkframework-common/module/
 plugin=../plugin/
 model=../model/
 layout=../layout/

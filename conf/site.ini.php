@@ -59,7 +59,7 @@ action.default=index
 layout.erreur=../layout/erreurprod.php
 
 [urlrewriting]
-enabled=0
+enabled=1
 class=plugin_routing
 conf=../conf/routing.php
 use4O4=0
