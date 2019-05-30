@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f241ffd56a06668900f761570722f41f",
+    "packages": [
+        {
+            "name": "mkframework/mkframework-lib",
+            "version": "4.133.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/imikado/mkframeworkLib.git",
+                "reference": "81e0564d39baef80ea36afbe08349fd79d339b3e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/imikado/mkframeworkLib/zipball/81e0564d39baef80ea36afbe08349fd79d339b3e",
+                "reference": "81e0564d39baef80ea36afbe08349fd79d339b3e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0-only"
+            ],
+            "authors": [
+                {
+                    "name": "Michael Bertocchi",
+                    "homepage": "http://mkframework.com/",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Lib of the mkframework, an easy php framework",
+            "homepage": "http://mkframework.com",
+            "time": "2019-05-28T19:25:21+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

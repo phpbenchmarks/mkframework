@@ -1,1 +1,2 @@
-Preparing mkframework benchmarks.
+# mkframeworkProjectSCB
+A skeleton to start a mkframework application
