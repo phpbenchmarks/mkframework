@@ -6,8 +6,8 @@
     "prefer-stable": true,
     "require": {
         "php": "^5.6 || ^7.0",
-        "mkframework/mkframework-lib":"^4.133.0",
-        "phpbenchmarks/mkframework-common": "dev-mkframework_4.133_hello-world_prepare"
+        "mkframework/mkframework-lib":"4.133.0",
+        "phpbenchmarks/mkframework-common": "dev-mkframework_4_hello-world_prepare"
     }
 
 }
