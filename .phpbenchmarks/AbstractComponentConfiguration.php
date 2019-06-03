@@ -48,7 +48,7 @@ abstract class AbstractComponentConfiguration
 
     public static function getBenchmarkUrl(): string
     {
-        return 'http://localhost:8080/';
+        return 'benchmark/helloworld';
     }
 
     public static function getCoreDependencyName(): string
@@ -79,8 +79,8 @@ abstract class AbstractComponentConfiguration
     public static function getSourceCodeUrls(): array
     {
         return [
-            'route' => 'http://localhost/helloworld',
-            'controller' => 'http://localhost/'
+            'route' => 'https://github.com/phpbenchmarks/mkframework-common/blob/mkframework_4_hello-world/conf/routing.php',
+            'controller' => 'https://github.com/phpbenchmarks/mkframework-common/blob/mkframework_4_hello-world/module/global/main.php'
         ];
     }
 }

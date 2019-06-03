@@ -61,7 +61,7 @@ layout.erreur=../layout/erreurprod.php
 [urlrewriting]
 enabled=1
 class=plugin_routing
-conf=../conf/routing.php
+conf=../vendor/phpbenchmarks/mkframework-common/conf/routing.php
 use4O4=0
 
 [security]
