@@ -48,7 +48,7 @@ abstract class AbstractComponentConfiguration
 
     public static function getBenchmarkUrl(): string
     {
-        return 'benchmark/helloworld';
+        return 'helloworld';
     }
 
     public static function getCoreDependencyName(): string
