@@ -52,7 +52,7 @@ $oRoot->setConfigVar('path', $tIni['path']);
 //$oRoot->setConfigVar('cache.conf.enabled',1);
 
 $oRoot->addConf('../conf/mode.ini.php');
-$oRoot->addConf('../conf/connexion.ini.php');
+//$oRoot->addConf('../conf/connexion.ini.php');
 $oRoot->addConf('../conf/site.ini.php');
 $oRoot->addRequest($_GET);
 $oRoot->addRequest($_POST);
